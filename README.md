@@ -1,3 +1,10 @@
+# Mysftz' Dashboard <br> <br>
+
+| [HOME](https://github.com/Mysftz/Mysftz/blob/main/README.md) | ABOUT ME | DATA PORTFOLIO | AI PORTFOLIO | OTHER PORTFOLIO | CONTACT ME
+|---|---|---|---|---|---|
+
+<br>
+
 Hello, I’m Łukasz, aka @Mysftz, I’m interested in artificial intelligence, data analytics and data science. I’m currently at university doing my MSc in artificial intellgence and have a BSC in astrophysics, astronomy & space science. <br> <br>
 
 **CONTACT ME** <br>
