@@ -1,4 +1,4 @@
-# Mysftz' Dashboard <br> <br>
+# Mysftz' Dashboard <br>
 
 | [HOME](https://github.com/Mysftz/Mysftz/blob/main/README.md) | ABOUT ME | DATA PORTFOLIO | AI PORTFOLIO | OTHER PORTFOLIO | CONTACT ME
 |---|---|---|---|---|---|
