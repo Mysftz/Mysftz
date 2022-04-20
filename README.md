@@ -1,6 +1,6 @@
 # Mysftz' Dashboard <br>
 
-| [HOME](https://github.com/Mysftz/Mysftz/blob/main/README.md) | ABOUT ME | DATA PORTFOLIO | AI PORTFOLIO | OTHER PORTFOLIO | CONTACT ME
+| [HOME](https://github.com/Mysftz) | ABOUT ME | DATA PORTFOLIO | AI PORTFOLIO | OTHER PORTFOLIO | CONTACT ME
 |---|---|---|---|---|---|
 
 <br>
