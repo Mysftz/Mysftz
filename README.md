@@ -2,4 +2,4 @@ Hello, I’m Łukasz, aka @Mysftz, I’m interested in artificial intelligence, 
 
 **CONTACT ME** <br>
 
-Instagram - https://www.instagram.com/mysftz <br>
+Instagram - https://www.instagram.com/mysftz/ <br>
